@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-    <string name="app_name">nkla</string>
-    <string name="title_activity_main">nkla</string>
-    <string name="package_name">com.cyzmix.nkla</string>
-    <string name="custom_url_scheme">com.cyzmix.nkla</string>
-</resources>
